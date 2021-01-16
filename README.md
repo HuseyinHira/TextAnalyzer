@@ -1,1 +1,1 @@
-# analysisInJava
+# TextAnalyzer
